@@ -1,0 +1,44 @@
+[
+    {
+        "parent": {
+            "child": {
+                "nested_string_list": [
+                    ["one", "two"],
+                    ["three", "four"]
+                ],
+                "nested_integer_list": [
+                    [1, 2],
+                    [3, 4]
+                ]
+            }
+        }
+    },
+    {
+        "parent": {
+            "child": {
+                "nested_string_list": [
+                    ["one", "two"],
+                    ["three", "four"]
+                ],
+                "nested_integer_list": [
+                    [1, 2],
+                    [3, 4]
+                ]
+            }
+        }
+    },
+    {
+        "parent": {
+            "child": {
+                "nested_string_list": [
+                    ["one", "two"],
+                    ["three", "four"]
+                ],
+                "nested_integer_list": [
+                    [1, 2],
+                    [3, 4]
+                ]
+            }
+        }
+    }
+]

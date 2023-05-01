@@ -1,0 +1,47 @@
+[
+    {
+        "parent": {
+            "child": {
+                "value": 4
+            }
+        },
+        "parent2": {
+            "list": [
+                1,
+                3,
+                5,
+                7
+            ]
+        }
+    },
+    {
+        "parent": {
+            "child": {
+                "value": 4
+            }
+        },
+        "parent2": {
+            "list": [
+                1,
+                3,
+                5,
+                7
+            ]
+        }
+    },
+    {
+        "parent": {
+            "child": {
+                "value": 4
+            }
+        },
+        "parent2": {
+            "list": [
+                1,
+                3,
+                5,
+                7
+            ]
+        }
+    }
+]
