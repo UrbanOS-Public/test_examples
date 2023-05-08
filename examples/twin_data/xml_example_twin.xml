@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<laneclosures>
+    <laneclosure>
+        <action>update</action>
+        <actdatetime>2023-05-04 15:44:16.0</actdatetime>
+        <closure-id>123456</closure-id>
+        <job-id>1234</job-id>
+        <cnty-cd>1234</cnty-cd>
+        <dir-of-travel>1234</dir-of-travel>
+        <roadway>Fake-Roadway</roadway>
+        <alt-roadname></alt-roadname>
+        <category-id>1234</category-id>
+        <startdatetime>2023-05-03 18:10:54.0</startdatetime>
+        <enddatetime></enddatetime>
+        <description>Some fake description</description>
+        <altroute>0</altroute>
+        <weatherdep>0</weatherdep>
+        <nightwork>0</nightwork>
+        <detour></detour>
+        <start-mm-exit></start-mm-exit>
+        <end-mm-exit></end-mm-exit>
+        <routecode></routecode>
+        <routepath></routepath>
+        <beginmile></beginmile>
+        <endmile></endmile>
+        <location-desc>Fake Location Desc</location-desc>
+        <bothdir>0</bothdir>
+        <latitude>123.456</latitude>
+        <longitude>-123.456</longitude>
+        <xmin></xmin>
+        <xmax></xmax>
+        <ymin></ymin>
+        <ymax></ymax>
+        <srid></srid>
+        <routeid></routeid>
+        <incident>
+            <incident-id>12345</incident-id>
+            <weather-id>1234</weather-id>
+            <road-cond-id>0</road-cond-id>
+            <num-vehicles></num-vehicles>
+            <fatalities></fatalities>
+            <lead-law></lead-law>
+            <lead-fire></lead-fire>
+            <spec-circ></spec-circ>
+            <how-notified>LOUDLY</how-notified>
+            <lanes-affected>10</lanes-affected>
+            <incidenttype-id>0</incidenttype-id>
+            <est-duration></est-duration>
+            <lanes-blocked></lanes-blocked>
+        </incident>
+    </laneclosure>
+    <laneclosure>
+        <action>update</action>
+        <actdatetime>2023-05-08 15:40:23.0</actdatetime>
+        <closure-id>12345</closure-id>
+        <job-id>0</job-id>
+        <cnty-cd>0</cnty-cd>
+        <dir-of-travel>3</dir-of-travel>
+        <roadway>SOME-ROADWAY</roadway>
+        <alt-roadname></alt-roadname>
+        <category-id>123</category-id>
+        <startdatetime>2023-05-08 12:46:14.0</startdatetime>
+        <enddatetime></enddatetime>
+        <description>Incident blocking the exit ramp.</description>
+        <altroute>0</altroute>
+        <weatherdep>0</weatherdep>
+        <nightwork>0</nightwork>
+        <detour></detour>
+        <start-mm-exit></start-mm-exit>
+        <end-mm-exit></end-mm-exit>
+        <routecode></routecode>
+        <routepath></routepath>
+        <beginmile></beginmile>
+        <endmile></endmile>
+        <location-desc>SOME Description</location-desc>
+        <bothdir>0</bothdir>
+        <latitude>123.123</latitude>
+        <longitude>-234.234</longitude>
+        <xmin></xmin>
+        <xmax></xmax>
+        <ymin></ymin>
+        <ymax></ymax>
+        <srid></srid>
+        <routeid></routeid>
+        <incident>
+            <incident-id>1234456</incident-id>
+            <weather-id>0</weather-id>
+            <road-cond-id>0</road-cond-id>
+            <num-vehicles></num-vehicles>
+            <fatalities></fatalities>
+            <lead-law></lead-law>
+            <lead-fire></lead-fire>
+            <spec-circ></spec-circ>
+            <how-notified>QUIETLY</how-notified>
+            <lanes-affected>14</lanes-affected>
+            <incidenttype-id>0</incidenttype-id>
+            <est-duration></est-duration>
+            <lanes-blocked>Exit Ramp</lanes-blocked>
+        </incident>
+    </laneclosure>
+    <laneclosure>
+        <action>update</action>
+        <actdatetime>2023-05-08 15:17:16.0</actdatetime>
+        <closure-id>648159</closure-id>
+        <job-id>0</job-id>
+        <cnty-cd>50</cnty-cd>
+        <dir-of-travel>2</dir-of-travel>
+        <roadway>Other Road</roadway>
+        <alt-roadname></alt-roadname>
+        <category-id>99</category-id>
+        <startdatetime>2023-05-08 15:16:57.0</startdatetime>
+        <enddatetime></enddatetime>
+        <description></description>
+        <altroute>0</altroute>
+        <weatherdep>0</weatherdep>
+        <nightwork>0</nightwork>
+        <detour></detour>
+        <start-mm-exit></start-mm-exit>
+        <end-mm-exit></end-mm-exit>
+        <routecode></routecode>
+        <routepath></routepath>
+        <beginmile></beginmile>
+        <endmile></endmile>
+        <location-desc>Test</location-desc>
+        <bothdir>0</bothdir>
+        <latitude>42.494057</latitude>
+        <longitude>-82.95403</longitude>
+        <xmin></xmin>
+        <xmax></xmax>
+        <ymin></ymin>
+        <ymax></ymax>
+        <srid></srid>
+        <routeid></routeid>
+        <incident>
+            <incident-id>1234556</incident-id>
+            <weather-id>0</weather-id>
+            <road-cond-id>0</road-cond-id>
+            <num-vehicles></num-vehicles>
+            <fatalities></fatalities>
+            <lead-law></lead-law>
+            <lead-fire></lead-fire>
+            <spec-circ></spec-circ>
+            <how-notified>HUSH</how-notified>
+            <lanes-affected>2</lanes-affected>
+            <incidenttype-id>1</incidenttype-id>
+            <est-duration></est-duration>
+            <lanes-blocked>Left Shoulder</lanes-blocked>
+        </incident>
+    </laneclosure>
+</laneclosures>
