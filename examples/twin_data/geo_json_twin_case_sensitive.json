@@ -1,5 +1,5 @@
 {
-   "feEd_Info": {
+   "Feed_Info": {
       "Update_date": "2020-06-18T15:00:00Z",
       "PUBLISHER": "TestDOT",
       "contact_name": "Frederick Francis Feedmanager",
@@ -33,9 +33,9 @@
          "type": "Feature",
          "properties": {
             "core_details": {
-               "data_source_id": "1",
+               "Data_Source_Id": "1",
                "event_type": "work-zone",
-               "road_names": [
+               "Road_Names": [
                   "I-80",
                   "I-35"
                ],
@@ -91,9 +91,9 @@
          "type": "Feature",
          "properties": {
             "core_details": {
-               "data_source_id": "1",
+               "Data_Source_Id": "1",
                "event_type": "work-zone",
-               "road_names": [
+               "Road_Names": [
                   "128th Street"
                ],
                "direction": "northbound",
@@ -122,7 +122,7 @@
                      {
                         "type": "reduced-width",
                         "value": 10,
-                        "unit": "feet"
+                        "UNIT": "feet"
                      }
                   ]
                },
@@ -404,15 +404,15 @@
          "type": "Feature",
          "properties": {
             "core_details": {
-               "data_source_id": "2",
+               "Data_Source_Id": "2",
                "event_type": "work-zone",
                "related_road_events": [
                   {
                      "type": "next-in-sequence",
-                     "id": "8bfb0ce0-98cd-4e92-924d-f0a9d3a4ba8f"
+                     "ID": "8bfb0ce0-98cd-4e92-924d-f0a9d3a4ba8f"
                   }
                ],
-               "road_names": [
+               "Road_Names": [
                   "I-235"
                ],
                "direction": "westbound",
@@ -502,19 +502,19 @@
          "type": "Feature",
          "properties": {
             "core_details": {
-               "data_source_id": "2",
+               "Data_Source_Id": "2",
                "event_type": "work-zone",
                "related_road_events": [
                   {
                      "type": "first-in-sequence",
-                     "id": "6f57aded-7291-462e-9892-607b2b7d116c"
+                     "ID": "6f57aded-7291-462e-9892-607b2b7d116c"
                   },
                   {
                      "type": "next-in-sequence",
-                     "id": "e6c2abad-04e2-41fd-bd66-4cc41e4bb6e7"
+                     "ID": "e6c2abad-04e2-41fd-bd66-4cc41e4bb6e7"
                   }
                ],
-               "road_names": [
+               "Road_Names": [
                   "I-235"
                ],
                "direction": "westbound",
@@ -626,15 +626,15 @@
          "type": "Feature",
          "properties": {
             "core_details": {
-               "data_source_id": "2",
+               "Data_Source_Id": "2",
                "event_type": "work-zone",
                "related_road_events": [
                   {
                      "type": "first-in-sequence",
-                     "id": "6f57aded-7291-462e-9892-607b2b7d116c"
+                     "ID": "6f57aded-7291-462e-9892-607b2b7d116c"
                   }
                ],
-               "road_names": [
+               "Road_Names": [
                   "I-235"
                ],
                "direction": "westbound",
