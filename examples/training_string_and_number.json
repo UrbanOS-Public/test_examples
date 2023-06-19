@@ -1,0 +1,14 @@
+[
+  {
+    "MyString1": "Hello",
+    "MyString2": "World",
+    "MyNumber1": 1,
+    "MyNumber2": 2
+  },
+  {
+    "MyString1": "Goodbye",
+    "MyString2": "World",
+    "MyNumber1": 10,
+    "MyNumber2": 20
+  }
+]
