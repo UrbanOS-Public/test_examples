@@ -1,0 +1,21 @@
+{
+    "attributes": {
+        "FID": 1,
+        "ROADWAY": "02000007",
+        "INTSEC_ROA": "W CASTANIA DR",
+        "INTSEC_DIR": "5",
+        "ROAD_SURF_": " ",
+        "OLD_KEY": " ",
+        "surface_de": " ",
+        "intsec_des": "INTERSECTING STREET 90 DEGREES TO THE RIGHT",
+        "DISTRICT": "7",
+        "COUNTYDOT": "02",
+        "COUNTY": "Citrus",
+        "MNG_DIST": "7",
+        "BEGIN_POST": 2.336
+    },
+    "geometry": {
+        "x": -82.483587311477464,
+        "y": 29.001930354663067
+    }
+}
