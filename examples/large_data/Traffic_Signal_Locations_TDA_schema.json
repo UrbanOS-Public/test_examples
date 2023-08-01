@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Traffic_Signal_Locations_TDA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID": 1, "RDWYID": "13050000", "SIDE": "C", "VALUE_": "02", "EFFDATE": "N/A", "CNTLRDES": "SR 64 / MANATEE AVE", "MAINTAGC": "MANATEE", "SDESTRET": "LENA RD/HERITAGE WAY", "SIGNALID": "468", "SIGNALNC": "N/A", "SIGSTRCT": "01", "TYPECABL": "N/A", "SEC_STAT": "ON", "DISTRICT": "1", "COUNTYDOT": "13", "COUNTY": "Manatee", "MNG_DIST": "1", "BEGPT": 7.389 }, "geometry": { "type": "Point", "coordinates": [ -82.457182463946793, 27.4860049392943 ] } }
+]
+}
