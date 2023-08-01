@@ -1,0 +1,17 @@
+[
+  {
+    "first_value": "something",
+    "second-value": "other value",
+    "third-value_with-hyphen": "more complicated"
+  },
+  {
+    "first_value": "something2",
+    "second-value": "other value2",
+    "third-value_with-hyphen": "more complicated2"
+  },
+  {
+    "first_value": "something3",
+    "second-value": "other value3",
+    "third-value_with-hyphen": "more complicated3"
+  }
+]
